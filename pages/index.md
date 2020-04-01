@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /abirjameel.github.io/
+permalink: /
 ---
 
-{% include /abirjameel.github.io/landing.html %}
+{% include landing.html %}
