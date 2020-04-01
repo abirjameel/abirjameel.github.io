@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /search.json
+permalink: /abirjameel.github.io/search.json
 ---
 [
   {% for post in site.posts %}
