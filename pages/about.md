@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /abirjameel.github.io/about/
+permalink: /abirjameel.github.io/about
 weight: 3
 ---
 
