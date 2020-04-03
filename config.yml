@@ -1,11 +1,11 @@
 baseurl: "/"
-title: "Stackbit Fresh Theme"
+title: "Abir"
 page_load_js: "assets/js/main.js"
 params:
   layout_style: overflow
   palette: blue
   header:
-    title: "Stackbit Fresh"
+    title: "Abir Jameel"
     tagline: Header Tagline
     profile_img: images/avatar.png
     bg: dark
