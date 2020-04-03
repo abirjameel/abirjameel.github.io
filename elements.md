@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elements
+image: assets/images/landing_img.jpg
 nav-menu: true
 ---
 
