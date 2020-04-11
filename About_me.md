@@ -12,11 +12,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About Me</h1>
+			<h1 style="property:#9bf1ff;">About Me</h1>
 		</header>
 
 <!-- Content -->
-<h3 id="content">a little background</h3>
+<h3 id="content" style="property:#9bf1ff">a little background</h3>
 <p>
 Hello! I'm Abir, a self taught programmer based in New Delhi, India who enjoys building machine learning, deep learning and artificial intellignece algorithms.
 I love to research and develop exceptional approaches for training machine learning / deep learning models preferably in time series data. Recently i have started to incline towards
@@ -29,7 +29,7 @@ I started my career from Valuence Analytics then i moved to Robert Bosch where i
 Below are the technologies which i have been working recently:
 
 </p>
-<ul class="myskills">
+<ul class="myskills" style="property:#9bf1ff">
 <li class="pointers_list_skill">Python</li>
 <li class="pointers_list_skill">C#</li>
 <li class="pointers_list_skill">R</li>
