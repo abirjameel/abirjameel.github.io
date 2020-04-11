@@ -37,12 +37,14 @@ ul {
 }
 
 ul li::before {
+  content: "\2022";
   color: #9bf1ff;
   display: inline-block; 
   width: 1em;
   margin-left: -1em;
 }
 </style>
+
 <ul class="myskills">
 
 <li class="pointers_list_skill">Python</li>
