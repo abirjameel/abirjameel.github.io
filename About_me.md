@@ -30,22 +30,7 @@ on my own. Initially it was challenging because of my educational background, bu
 I started my career from Valuence Analytics then i moved to Robert Bosch where i learned the meaning of responsiblity and excellence at work.
 Below are the technologies which i have been working recently:
 </p>
-
-<style>
-ul {
-  list-style: none;
-}
-
-ul li::before {
-  content: "\2022";
-  color: #9bf1ff;
-  display: inline-block; 
-  width: 1em;
-  margin-left: -1em;
-}
-</style>
-
-<ul class="myskills">
+<ul class="myskills" >
 
 <li class="pointers_list_skill">Python</li>
     <li class="pointers_list_skill">C#</li>
@@ -54,9 +39,6 @@ ul li::before {
     <li class="pointers_list_skill">HTML</li>
     <li class="pointers_list_skill">JSON</li>
 </ul>
-
-<h3 id="content">Libraries & Frameworks</h3>
-
 
 <ul class="myskills">
 <li class="pointers_list_skill">Tensor Flow</li>
@@ -74,6 +56,7 @@ ul li::before {
     <li class="pointers_list_skill">Spark-PySpark</li>
     <li class="pointers_list_skill">Seaborn</li>
     <li class="pointers_list_skill">KMongo-DB</li>
-</ul>
+</ul><h3 id="content">Libraries & Frameworks</h3>
+
 <div class="row">
 
