@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Work Experience
 description: Places I have worked
 image: assets/images/work.jpg
 nav-menu: true
