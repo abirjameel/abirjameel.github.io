@@ -11,10 +11,6 @@ description: a little about me!
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<!--<h1 style="color:#9bf1ff;">About Me</h1>-->
-		</header>
 
 <!-- Content -->
 <!-- <h3 id="content" style="color:#9bf1ff">a little background</h3> -->
@@ -41,7 +37,7 @@ Below are the technologies which i have been working recently:
     <li class="pointers_list_skill">JSON</li>
 </ul>
 
-<h3 id="content">Libraries & Frameworks</h3>
+<h3 id="content">Libraries & Frameworks</h3
 
 <ul class="myskills">
 <li class="pointers_list_skill">Tensor Flow</li>
@@ -60,5 +56,6 @@ Below are the technologies which i have been working recently:
     <li class="pointers_list_skill">Seaborn</li>
     <li class="pointers_list_skill">KMongo-DB</li>
 </ul>
+</section>
 <div class="row">
 
