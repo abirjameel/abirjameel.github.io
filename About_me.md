@@ -3,6 +3,7 @@ layout: page
 title: About Me
 image:
 nav-menu: true
+description: a little about me!
 ---
 
 <!-- Main -->
