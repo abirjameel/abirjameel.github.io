@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+layout: page
+title: Work
+description: Places I have worked
+image: assets/images/work.jpg
 nav-menu: true
 ---
 
