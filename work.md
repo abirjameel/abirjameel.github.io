@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 description: Places I have worked
-image: assets/images/work.jpg
+image: assets/images/work_s.jpg
 nav-menu: true
 ---
 
