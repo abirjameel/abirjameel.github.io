@@ -31,20 +31,6 @@ I started my career from Valuence Analytics then i moved to Robert Bosch where i
 Below are the technologies which i have been working recently:
 </p>
 
-<style>
-ul {
-  list-style: none;
-}
-
-ul li::before {
-  content: "\2022";
-  color: #9bf1ff;
-  display: inline-block; 
-  width: 1em;
-  margin-left: -1em;
-}
-</style>
-
 <ul class="myskills">
 
 <li class="pointers_list_skill">Python</li>
@@ -55,8 +41,7 @@ ul li::before {
     <li class="pointers_list_skill">JSON</li>
 </ul>
 
-<h3 id="content">Libraries & Frameworks</h3>
-
+<h3 id="content">Libraries & Frameworks</h3
 
 <ul class="myskills">
 <li class="pointers_list_skill">Tensor Flow</li>
