@@ -27,7 +27,6 @@ Shortly after graduating from Thapar University (Patiala, India) in Civil and St
 on my own. Initially it was challenging because of my educational background, but most of skills i learned while being on the job.
 </p>
 <p>
-I started my career from Valuence Analytics then i moved to Robert Bosch where i learned the meaning of responsiblity and excellence at work.
 Below are the technologies which i have been working recently:
 </p>
 
