@@ -16,12 +16,8 @@ description: a little about me!
 <!-- <h3 id="content" style="color:#9bf1ff">a little background</h3> -->
 <p>
 Hello! I'm Abir, a self taught programmer based in New Delhi, India who enjoys building machine learning, deep learning and artificial intellignece algorithms.
-I love to research and develop exceptional approaches for training machine learning / deep learning models preferably in time series data. Recently i have started to incline towards
+I love to research and develop exceptional approaches for training machine learning / deep learning models preferably in time series data. Recently i am more inclined towards building 
 algorithmic trading algorithms using deep learning and artificial intelligence. 
-</p>
-<p>
-Shortly after graduating from Thapar University (Patiala, India) in Civil and Structural Engineering, I developed my interest in Data Science and machine learning and i started to learn
-on my own. Initially it was challenging because of my educational background, but most of skills i learned while being on the job.
 </p>
 <p>
 Below are the technologies which i have been working recently:
