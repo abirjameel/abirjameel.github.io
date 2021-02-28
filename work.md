@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 ### Data Scientist (Freelancer) @ TradeButler
-#### Sep 2019 – Feb 2020 // 
+#### Sep 2019 – Dec 2020 // 
 + Working with a start-up based in Denmark, Project involves researching and developing deep learning and AI based crypto trading models.     
 + Pattern recognition of interesting regions in rolling windows based data format, interesting regions are breakouts of price, takeoff of price etc.
 building various classification models to predict a region (breakout/takeoff)  of a given window and put a trade accordingly.     
